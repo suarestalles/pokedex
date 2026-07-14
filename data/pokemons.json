@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "types": ["grass", "poison"]
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "types": ["fire"]
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "types": ["water"]
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "types": ["electric"]
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "types": ["normal", "fairy"]
+  },
+  {
+    "id": 52,
+    "name": "meowth",
+    "types": ["normal"]
+  },
+  {
+    "id": 63,
+    "name": "abra",
+    "types": ["psychic"]
+  },
+  {
+    "id": 74,
+    "name": "geodude",
+    "types": ["rock", "ground"]
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "types": ["ghost", "poison"]
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "types": ["normal"]
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "types": ["dragon", "flying"]
+  },
+  {
+    "id": 197,
+    "name": "umbreon",
+    "types": ["dark"]
+  }
+]
