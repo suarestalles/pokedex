@@ -8,8 +8,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico com foco em cons
 
 ## 🚀 Demonstração
 
-🌐 **Aplicação:** https://SEU-PROJETO.vercel.app
-
+🌐 **Aplicação:** [https://pokemon-app.vercel.app](https://pokemon-app-kappa-ten.vercel.app/)
 ---
 
 ## 📸 Preview
